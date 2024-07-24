@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px">
 </p>
-<h1 align="center">Hi 👋, I'm Sakaar</h1>
+<h1 align="center">Hi 👋, I'm Sakaar!</h1>
 <h3 align="center">A passionate programmer with a curious mind from India</h3>
 
 [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/sakaars/sakaar)
